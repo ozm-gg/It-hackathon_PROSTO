@@ -1,0 +1,12 @@
+
+    receptor = COX-2.pdbqt
+    ligand = legant.pdbqt
+    out = result.pdbqt
+    center_x = 27.116
+    center_y = 24.09
+    center_z = 14.936
+    size_x = 10
+    size_y = 10
+    size_z = 10
+    exhaustiveness = 16
+    
