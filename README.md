@@ -12,4 +12,5 @@
   - Проницаемость роговицы
 - **Интеграция химических инструментов**: RDKit, Open Babel, AutoDock Vina
 
-Основной файл molDQNpytorch.ipinb
+Основной файл обучения molDQNpytorch.ipinb
+Файл для оценки полученных молекул hit_molecules.ipynb
